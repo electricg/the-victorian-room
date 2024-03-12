@@ -1,0 +1,67 @@
+body{
+	background-attachment : fixed;
+	background-color : transparent;
+	background-image : url(sfondo.jpg);
+	font-family : "Comic Sans MS";
+	color : Black;
+	font-size : 14px;
+	font-style : normal;
+	font-variant : normal;
+	font-weight : normal;
+	text-decoration : none;
+	text-align : justify;
+	SCROLLBAR-FACE-COLOR: #990000;
+	SCROLLBAR-HIGHLIGHT-COLOR: #ff0000;
+	SCROLLBAR-SHADOW-COLOR: #cc3300;
+	SCROLLBAR-ARROW-COLOR: #FFE4E1;
+	SCROLLBAR-TRACK-COLOR: #ffe4e1;
+	SCROLLBAR-BASE-COLOR: #990000;
+	scrollbar-width: 8px;
+	scrollbar-3d-light-color: #cc0000;
+	scrollbar-dark-shadow-color: #cc3300;
+}
+A:link{
+	color : #990000;
+	font-family : "Comic Sans MS";
+	font-size : 14px;
+	font-style : normal;
+	font-variant : normal;
+	font-weight : bold;
+	text-decoration : none;
+}
+A:visited{
+	color : #990000;
+	font-family : "Comic Sans MS";
+	font-size : 14px;
+	font-style : normal;
+	font-variant : normal;
+	font-weight : bold;
+	text-decoration : none;
+}
+A:active{
+	color : #990000;
+	font-family : "Comic Sans MS";
+	font-size : 14px;
+	font-style : normal;
+	font-variant : normal;
+	font-weight : bold;
+	text-decoration : underline;
+}
+A:hover{
+	color : #90000;
+	font-family : "Comic Sans MS";
+	font-size : 14px;
+	font-style : normal;
+	font-variant : normal;
+	font-weight : bold;
+	text-decoration : underline;
+}
+.testo{
+	font-family : "Comic Sans MS";
+	color : Black;
+	font-style : normal;
+	font-variant : normal;
+	font-weight : normal;
+	text-decoration : none;
+	text-align : justify;
+}
